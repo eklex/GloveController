@@ -1,8 +1,11 @@
-// Based on this great example:
-//        https://code.google.com/p/generate-ppm-signal
-// Mod to use the internal 8MHz osc.
+/* This file is NOT part of the Razor AHRS Firmware */
+/* Based on this great example:                     */
+/*   https://code.google.com/p/generate-ppm-signal  */
+/* Mod to use the internal 8MHz osc.                */
+/* eklex - 2014/10/18                               */
+
 /*****************************************************************/
-// PPM OPTIONS
+/* PPM OPTIONS                                                   */
 /*****************************************************************/
 #define chanel_number 6  //set the number of chanels
 #define default_servo_value 1500  //set the default servo value

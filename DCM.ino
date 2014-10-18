@@ -1,4 +1,5 @@
 /* This file is part of the Razor AHRS Firmware */
+/* Mod: Corrected_angles() added */
 
 // DCM algorithm
 
