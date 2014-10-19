@@ -1,8 +1,9 @@
-/* This file is NOT part of the Razor AHRS Firmware */
+/* This file is part of the mod Razor AHRS Firmware */
 /* Based on this great example:                     */
 /*   https://code.google.com/p/generate-ppm-signal  */
 /* Mod to use the internal 8MHz osc.                */
 /* eklex - 2014/10/18                               */
+/* Released under GNU GPL v3.0 as original firmware */
 
 /*****************************************************************/
 /* PPM OPTIONS                                                   */
