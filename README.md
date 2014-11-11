@@ -21,5 +21,6 @@ GloveController
 * Arduino IDE (tested with 1.0.5r2)
 
 # <a name="how-to"></a>How-To
-Go to [Glove Controller on eklex.cc](http://eklex.cc/glove-controller/)
+* (EN) Go to [Glove Controller on eklex.cc in english](http://eklex.cc/glove-controller/)
+* (FR) Allez sur [Glove Controller sur eklex.cc en français](http://eklex.cc/gant-de-controle/)
 
